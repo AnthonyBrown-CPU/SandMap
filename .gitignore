@@ -1,0 +1,8 @@
+
+*.pem
+config.ini
+libmysql.dll
+marker.png
+qsqlmysql.dll
+qsqlmysqld.dll
+SandMap.pro.user
